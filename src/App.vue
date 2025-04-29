@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import {SweetButton} from "vue3-sweet-ui"
 </script>
 
 <template>
